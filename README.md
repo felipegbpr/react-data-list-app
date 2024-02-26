@@ -47,7 +47,8 @@ Siga as instruções abaixo para fazer a instalação e a utilização deste pro
 3. Execute para iniciar o json-server presente neste projeto
    ```sh
    npm run server
-   ```   
+   ```
+4. Acesse a url do projeto em seu navegador de preferência.      
 
 <!-- LICENSE -->
 ## ⚖️ Licença
