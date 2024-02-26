@@ -40,7 +40,7 @@ Siga as instruções abaixo para fazer a instalação e a utilização deste pro
    ```sh
    git clone https://github.com/felipegbpr/react-data-list-app
    ```
-2. Execute para iniciar o lado cliente do projeto
+2. Execute para iniciar o front-end do projeto
    ```sh
    npm run dev
    ```
