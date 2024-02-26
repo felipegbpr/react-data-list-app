@@ -1,7 +1,8 @@
-<h1 align="center">Data List App</h1>
+<h1 align="center">🌐 Data List App 🌐</h1>
 
 <!-- ABOUT THE PROJECT -->
-## Sobre o projeto
+## 📃 Sobre o projeto 
+<br/>
 
 <img src="https://github.com/felipegbpr/react-data-list-app/blob/main/project-images/project-print-web-01.png" align="center"/>
 
@@ -9,15 +10,15 @@ Este projeto representa uma aplicação para listagem de dados feita com React e
 da construção e programação de web pages intuitivas, 
 visando principalmente a fluidez e a usabilidade.
 
-### Construído com
+### ⚙️ Construído com
 
 * [![React][React.js]][React-url]
 * [![Tailwind][Tailwind-css]][Tailwind-url]
 
 <!-- GETTING STARTED -->
-## Começando
+## 💻 Começando
 
-### Pré-requisitos
+### 📝 Pré-requisitos
 
 Esses são os pré-requisitos que você precisa para utilizar este projeto:
 * node
@@ -33,7 +34,7 @@ Esses são os pré-requisitos que você precisa para utilizar este projeto:
   npm install json-server
   ```  
 
-### Instalação
+### 📥 Instalação
 
 Siga as instruções abaixo para fazer a instalação e a utilização deste projeto:
 
@@ -45,7 +46,7 @@ Siga as instruções abaixo para fazer a instalação e a utilização deste pro
    ```sh
    npm run dev
    ```
-3. Execute para iniciar json-server presente neste projeto
+3. Execute para iniciar o json-server presente neste projeto
    ```sh
    npm run server
    ```   
@@ -55,12 +56,9 @@ Siga as instruções abaixo para fazer a instalação e a utilização deste pro
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <!-- CONTACT -->
-### Feito por:
+### 🥷🏻 Feito por:
 
 * Felipe Borges - [Linkedin](https://www.linkedin.com/in/felipe-gsb/) - felipeborges118@gmail.com
-
-### Projeto online:
-* Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
