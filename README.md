@@ -6,9 +6,7 @@
 
 <img src="https://github.com/felipegbpr/react-data-list-app/blob/main/project-images/project-print-web-01.png" align="center"/>
 
-Este projeto representa uma aplicação para listagem de dados feita com React e Tailwind CSS. O projeto conta com as melhores práticas e atribuições 
-da construção e programação de web pages intuitivas, 
-visando principalmente a fluidez e a usabilidade.
+Este projeto representa uma aplicação para listagem de dados, suas funcionalidades foram desenvolvidas utilizando os conceitos de React e Tailwind CSS. O projeto conta com as melhores práticas e atribuições da construção e programação de web pages intuitivas, visando principalmente a fluidez e a usabilidade.
 
 ### ⚙️ Construído com
 
